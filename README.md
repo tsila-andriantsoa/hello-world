@@ -1,2 +1,2 @@
 # hello-world
-Getting starded with github
+Getting starded with github .....
